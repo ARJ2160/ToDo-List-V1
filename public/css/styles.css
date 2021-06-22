@@ -1,6 +1,4 @@
 html {
-  background-color: #E4E9FD;
-  /* background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%); */
   background: rgb(255,7,50);
   background: -moz-linear-gradient(90deg, rgba(255,7,50,1) 0%, rgba(236,92,103,1) 40%, rgba(255,157,3,1) 63%, rgba(55,131,84,1) 97%);
   background: -webkit-linear-gradient(90deg, rgba(255,7,50,1) 0%, rgba(236,92,103,1) 40%, rgba(255,157,3,1) 63%, rgba(55,131,84,1) 97%);
